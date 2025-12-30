@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lark Capacita - Persona AI Avatar ",
+  "description": "A privacy-first, premium AI generating goal-driven avatars that reflect your future self using secure facial capture and personality mapping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
